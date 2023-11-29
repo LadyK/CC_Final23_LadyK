@@ -1,0 +1,7 @@
+{
+    "editor.autoClosingOvertype": "never",
+    "editor.autoClosingDelete": "never",
+    "editor.autoClosingQuotes": "never",
+    "javascript.autoClosingTags": false,
+    "typescript.autoClosingTags": false
+}
